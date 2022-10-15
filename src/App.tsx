@@ -1,8 +1,7 @@
-import React from 'react';
 import './App.css';
 
-function App(): void {
+const App: React.FC = () => {
 	return <div className='App'></div>;
-}
+};
 
 export default App;
